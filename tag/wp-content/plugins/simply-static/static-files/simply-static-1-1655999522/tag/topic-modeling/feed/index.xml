@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>topic modeling &#8211; Amin Hosseiny Marani, PHD STUDENT</title>
+	<atom:link href="http://localhost/amin/tag/topic-modeling/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Jun 2022 14:10:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Bias as a Distinct Factor in Human Ratings of Machine Labeling￼</title>
+		<link>/2022/06/23/bias-as-a-distinct-factor-in-human-ratings-of-machine-labeling%ef%bf%bc/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 14:06:16 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
+
+
+
+<p>This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct &#8220;bias&#8221; factor. This point is likely relevant for a wide variety of machine labeling tasks.</p>
+
+
+
+<p><a href="https://github.com/aminmarani/aminmarani.github.io/raw/master/Bias_as_a_Distinct_Factor_in_Human_Rating_of_Machine_Learning.pdf" target="_blank" rel="noreferrer noopener">Want to read more?</a> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
