@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/amin/tag/topic-modeling/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 24 Jun 2022 13:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jun 2022 13:20:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -239,7 +239,7 @@
 			</item>
 		<item>
 		<title>Bias as a Distinct Factor in Human Ratings of Machine Labeling￼</title>
-		<link>/2022/06/23/bias-as-a-distinct-factor-in-human-ratings-of-machine-labeling%ef%bf%bc/</link>
+		<link>/2022/06/23/bias-as-a-distinct-factor-in-human-ratings-of-machine-labeling/</link>
 		
 		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
 		<pubDate>Thu, 23 Jun 2022 14:06:16 +0000</pubDate>
