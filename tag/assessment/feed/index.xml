@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>assessment &#8211; Amin Hosseiny Marani, PhD Student</title>
+	<atom:link href="http://localhost/amin/tag/assessment/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Jun 2022 19:41:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Are You Taking a Break from Eating Disorder Recovery? What Breaks Can Tell us about Use of Social Media</title>
+		<link>/2022/06/23/are-you-taking-a-break-from-eating-disorder-recovery-what-breaks-can-tell-us-about-use-of-social-media/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:40:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=57</guid>
+
+					<description><![CDATA[People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
+
+
+
+<p>People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals to share their thoughts, feelings, ideas, interests and more. These disclosures can be explicit or implicit, public or private, anonymous or attached to their identity. Technology mediated communication is being used by people to share commonalities of their experiences of an issue or a phenomena.</p>
+
+
+
+<p>ED is one of the phenomena that people use social media to share their experiences, narrate their journey, and express their feelings in the transitions they go through often described as a recovery journey.</p>
+
+
+
+<p>There has been very little focus or attention paid to how people use technology, specifically their social media to cope with the emotional turmoil and negative experiences felt during the transition phase.</p>
+
+
+
+<p>While many previous works consider changes as binary major events (i.e., only one stage at a time), less examination has been done on quotidian transitions. Many life transitions are linear processes &#8211; childbirth, gender transition, promotion etc. But when it comes to mental health, specifically recovery, it is easy to see that the process is non-linear and that changes happen over a period of time: progress is interspersed with periods of relapse, impulses, stagnation etc. As such it becomes all the more important to explore how people use their social media to explain or discuss the process on their recovery journeys.</p>
+
+
+
+<p>This project will be submitted for publication soon&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>More than Good and Bad: Human Assessments of Machine Labeling Quality Have Multiple Dimensions</title>
+		<link>/2022/06/23/more-than-good-and-bad-human-assessments-of-machine-labeling-quality-have-multiple-dimensions/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:32:57 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=53</guid>
+
+					<description><![CDATA[This project develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
+
+
+
+<p>This project  develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria.</p>
+
+
+
+<p><br>Exploratory factor analysis of these items reveals a two-factor latent structure in participants&#8217; assessments of label quality that is consistent across both studies. Subsequent analysis demonstrates that this multi-item, two-factor measure can reveal nuances that would be missed using either a single-item measure of perceived label quality or established calculable performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.</p>
+
+
+
+<p><em>This paper will be submitted soon&#8230;</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>One Rating to Rule Them All? Evidence of Multidimensionality in Human Assessment of Topic Labeling Quality.</title>
+		<link>/2022/06/23/one-rating-to-rule-them-all-evidence-of-multidimensionality-in-human-assessment-of-topic-labeling-quality/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 17:09:51 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=26</guid>
+
+					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+
+
+
+<p>Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.<br>In contrast, this project provides evidence that human assessments about the quality of topic labels consist of multiple latent dimensions. This evidence comes from human assessments of four simple labeling techniques.</p>
+
+
+
+<p><br>For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria.<br>Exploratory factor analysis shows that these human assessments of labeling quality have a two-factor latent structure. Subsequent analysis demonstrates that this multi-item, two-factor assessment can reveal nuances that would be missed using either a single-item human assessment of perceived label quality or established performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.</p>
+
+
+
+<p><em>Paper has been submitted to CIKM 2022.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

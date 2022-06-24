@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ethics &#8211; Amin Hosseiny Marani, PhD Student</title>
+	<atom:link href="http://localhost/amin/tag/ethics/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Jun 2022 19:48:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>An Interdisciplinary Approach to Understanding Cultures of Ethics in STEM</title>
+		<link>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/</link>
+					<comments>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/#respond</comments>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:47:40 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[qualitative analysis]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=61</guid>
+
+					<description><![CDATA[This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data presentation, Dr. Griffin could not help but raise the issue of the ethics of data presentation&#8211; namely, how something as seemingly innocuous as an axis label could mislead an audience, intentionally or unintentionally. An expectation of ethical behavior was conjured out of an ordinary presentation of first-year research, helping to define a culture of ethics.</p>
+
+
+
+<p>The everyday cultural production of ethics stands in distinction both to professional standards governing ethical scientific behavior and to formal training or coursework on ethics that students receive. Other work has explored the varied and often limited effects that codes of ethics <a href="https://www.zotero.org/google-docs/?cMEPZA">(Bullock and Panicker, 2003; Shrader-Frechette, 1994)</a> and student curricula <a href="https://www.zotero.org/google-docs/?ag8TXO">(Antes et al., 2009; May and Luth, 2013; Mulhearn et al., 2017; Mumford et al., 2015)</a> have on scientists’ thoughts and behavior around ethical challenges. Somewhat less attention has been paid to how ethics are defined and understood through the everyday interactions in research laboratories. Our project thus set out to answer the question: how do the organization, conversations, relationships, and overall culture of a research laboratory determine group members’ understandings and actions with regard to ethics? Our work follows previous laboratory studies examining “epistemic cultures” <a href="https://www.zotero.org/google-docs/?r5m5o2">(Knorr-Cetina, 1999)</a>, but rather than identifying epistemes, we investigate ethical cultures.</p>
+
+
+
+<p>In our study, we observed two lab environments for one academic year. We employed a mixed-methods approach combining ethnography, rhetorical analysis, and computational topic modeling (described further below). This combination enabled us to closely read participants’ language and dialogue, to recognize the cultural context of each laboratory, and to capture patterns that are not easily visible to human users. While our study is not a comparative analysis, having two reference points helped reveal how different lab environments produce distinct ethical micro-cultures shaped by their particular community of participants.</p>
+
+
+
+<p><em>1-2 papers regarding this project will be submitted soon&#8230;</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ner &#8211; Amin Hosseiny Marani, PhD Student</title>
+	<atom:link href="http://localhost/amin/tag/ner/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Jun 2022 18:51:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Text2Table</title>
+		<link>/2022/06/23/text2table/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 18:50:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ner]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[re]]></category>
+		<category><![CDATA[relation extraction]]></category>
+		<guid isPermaLink="false">/?p=39</guid>
+
+					<description><![CDATA[Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
+
+
+
+<p>Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained corpus. </p>
+
+
+
+<p>With the availability of UMLS, Snomed and other NER/RE datasets we were able to create a system to include the new and old NLP techniques to improve the speed and performance of NER/RE models.</p>
+
+
+
+<p>Text2Table is a two part package for fast and reliable clinical named entities and relation extraction. First part, LinearNER, includes a very quick and easy to deploy approach to extract named entites using a combination of database lookup (LevelDB), Conditional Random Field (CRF) classification, and Inverted Index (Apache Solr) approaches. The second part, AINER, detect named entities and relation extraction between the extracted named entites using deep learning transformers.</p>
+
+
+
+<p>Public codes of the Text2table project will be released soon&#8230;</p>
+
+
+
+<p>A paper will be submitted for this project soon&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

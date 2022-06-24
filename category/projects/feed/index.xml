@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; Amin Hosseiny Marani, PhD Student</title>
+	<atom:link href="http://localhost/amin/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Jun 2022 13:04:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>An Interdisciplinary Approach to Understanding Cultures of Ethics in STEM</title>
+		<link>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/</link>
+					<comments>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/#respond</comments>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:47:40 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[qualitative analysis]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=61</guid>
+
+					<description><![CDATA[This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data presentation, Dr. Griffin could not help but raise the issue of the ethics of data presentation&#8211; namely, how something as seemingly innocuous as an axis label could mislead an audience, intentionally or unintentionally. An expectation of ethical behavior was conjured out of an ordinary presentation of first-year research, helping to define a culture of ethics.</p>
+
+
+
+<p>The everyday cultural production of ethics stands in distinction both to professional standards governing ethical scientific behavior and to formal training or coursework on ethics that students receive. Other work has explored the varied and often limited effects that codes of ethics <a href="https://www.zotero.org/google-docs/?cMEPZA">(Bullock and Panicker, 2003; Shrader-Frechette, 1994)</a> and student curricula <a href="https://www.zotero.org/google-docs/?ag8TXO">(Antes et al., 2009; May and Luth, 2013; Mulhearn et al., 2017; Mumford et al., 2015)</a> have on scientists’ thoughts and behavior around ethical challenges. Somewhat less attention has been paid to how ethics are defined and understood through the everyday interactions in research laboratories. Our project thus set out to answer the question: how do the organization, conversations, relationships, and overall culture of a research laboratory determine group members’ understandings and actions with regard to ethics? Our work follows previous laboratory studies examining “epistemic cultures” <a href="https://www.zotero.org/google-docs/?r5m5o2">(Knorr-Cetina, 1999)</a>, but rather than identifying epistemes, we investigate ethical cultures.</p>
+
+
+
+<p>In our study, we observed two lab environments for one academic year. We employed a mixed-methods approach combining ethnography, rhetorical analysis, and computational topic modeling (described further below). This combination enabled us to closely read participants’ language and dialogue, to recognize the cultural context of each laboratory, and to capture patterns that are not easily visible to human users. While our study is not a comparative analysis, having two reference points helped reveal how different lab environments produce distinct ethical micro-cultures shaped by their particular community of participants.</p>
+
+
+
+<p><em>1-2 papers regarding this project will be submitted soon&#8230;</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Are You Taking a Break from Eating Disorder Recovery? What Breaks Can Tell us about Use of Social Media</title>
+		<link>/2022/06/23/are-you-taking-a-break-from-eating-disorder-recovery-what-breaks-can-tell-us-about-use-of-social-media/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:40:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=57</guid>
+
+					<description><![CDATA[People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img loading="lazy" width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
+
+
+
+<p>People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals to share their thoughts, feelings, ideas, interests and more. These disclosures can be explicit or implicit, public or private, anonymous or attached to their identity. Technology mediated communication is being used by people to share commonalities of their experiences of an issue or a phenomena.</p>
+
+
+
+<p>ED is one of the phenomena that people use social media to share their experiences, narrate their journey, and express their feelings in the transitions they go through often described as a recovery journey.</p>
+
+
+
+<p>There has been very little focus or attention paid to how people use technology, specifically their social media to cope with the emotional turmoil and negative experiences felt during the transition phase.</p>
+
+
+
+<p>While many previous works consider changes as binary major events (i.e., only one stage at a time), less examination has been done on quotidian transitions. Many life transitions are linear processes &#8211; childbirth, gender transition, promotion etc. But when it comes to mental health, specifically recovery, it is easy to see that the process is non-linear and that changes happen over a period of time: progress is interspersed with periods of relapse, impulses, stagnation etc. As such it becomes all the more important to explore how people use their social media to explain or discuss the process on their recovery journeys.</p>
+
+
+
+<p>This project will be submitted for publication soon&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>More than Good and Bad: Human Assessments of Machine Labeling Quality Have Multiple Dimensions</title>
+		<link>/2022/06/23/more-than-good-and-bad-human-assessments-of-machine-labeling-quality-have-multiple-dimensions/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:32:57 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=53</guid>
+
+					<description><![CDATA[This project develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
+
+
+
+<p>This project  develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria.</p>
+
+
+
+<p><br>Exploratory factor analysis of these items reveals a two-factor latent structure in participants&#8217; assessments of label quality that is consistent across both studies. Subsequent analysis demonstrates that this multi-item, two-factor measure can reveal nuances that would be missed using either a single-item measure of perceived label quality or established calculable performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.</p>
+
+
+
+<p><em>This paper will be submitted soon&#8230;</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Topic Modeling Stability</title>
+		<link>/2022/06/23/topic-modeling-stability/</link>
+					<comments>/2022/06/23/topic-modeling-stability/#respond</comments>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 19:21:24 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=49</guid>
+
+					<description><![CDATA[Topic modeling includes a variety of machine learning techniques for identifying latent themes in a corpus of documents. Generating an exact solution (i.e., finding global optimum) is computationally intractable. Various optimization techniques (e.g., Variational Bayes, or Gibbs Sampling) are employed to generate topic solutions approximately by finding local optima. Such an approximation often begins with [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="404" src="/wp-content/uploads/2022/06/image-2-1024x404.png" alt="" class="wp-image-50" srcset="/wp-content/uploads/2022/06/image-2-1024x404.png 1024w, /wp-content/uploads/2022/06/image-2-300x118.png 300w, /wp-content/uploads/2022/06/image-2-768x303.png 768w, /wp-content/uploads/2022/06/image-2.png 1502w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Topic modeling includes a variety of machine learning techniques for identifying latent themes in a corpus of documents. Generating an exact solution (i.e., finding global optimum) is computationally intractable. Various optimization techniques (e.g., Variational Bayes, or Gibbs Sampling) are employed to generate topic solutions approximately by finding local optima. Such an approximation often begins with a random initialization, which leads to different results with different initialization.</p>
+
+
+
+<p>A highly stable topic model is able to produce topic solutions that are partially or completely identical across multiple runs. Term stability refers to similarity of multiple runs of a single topic model.</p>
+
+
+
+<p>This paper/project reviews different approaches to measure stability, and different techniques that are intended to improved stability. Although a couple of works have been done analyzing, measuring, and/or improving stability, no single paper has provided a thorough review of different stability metrics and various techniques that improved stability.</p>
+
+
+
+<p><em>This review paper will be submitted soon&#8230;</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/06/23/topic-modeling-stability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Text2Table</title>
+		<link>/2022/06/23/text2table/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 18:50:37 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[ner]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[re]]></category>
+		<category><![CDATA[relation extraction]]></category>
+		<guid isPermaLink="false">/?p=39</guid>
+
+					<description><![CDATA[Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img loading="lazy" width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
+
+
+
+<p>Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained corpus. </p>
+
+
+
+<p>With the availability of UMLS, Snomed and other NER/RE datasets we were able to create a system to include the new and old NLP techniques to improve the speed and performance of NER/RE models.</p>
+
+
+
+<p>Text2Table is a two part package for fast and reliable clinical named entities and relation extraction. First part, LinearNER, includes a very quick and easy to deploy approach to extract named entites using a combination of database lookup (LevelDB), Conditional Random Field (CRF) classification, and Inverted Index (Apache Solr) approaches. The second part, AINER, detect named entities and relation extraction between the extracted named entites using deep learning transformers.</p>
+
+
+
+<p>Public codes of the Text2table project will be released soon&#8230;</p>
+
+
+
+<p>A paper will be submitted for this project soon&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>One Rating to Rule Them All? Evidence of Multidimensionality in Human Assessment of Topic Labeling Quality.</title>
+		<link>/2022/06/23/one-rating-to-rule-them-all-evidence-of-multidimensionality-in-human-assessment-of-topic-labeling-quality/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 17:09:51 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[human-centered AI]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=26</guid>
+
+					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+
+
+
+<p>Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.<br>In contrast, this project provides evidence that human assessments about the quality of topic labels consist of multiple latent dimensions. This evidence comes from human assessments of four simple labeling techniques.</p>
+
+
+
+<p><br>For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria.<br>Exploratory factor analysis shows that these human assessments of labeling quality have a two-factor latent structure. Subsequent analysis demonstrates that this multi-item, two-factor assessment can reveal nuances that would be missed using either a single-item human assessment of perceived label quality or established performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.</p>
+
+
+
+<p><em>Paper has been submitted to CIKM 2022.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bias as a Distinct Factor in Human Ratings of Machine Labeling￼</title>
+		<link>/2022/06/23/bias-as-a-distinct-factor-in-human-ratings-of-machine-labeling%ef%bf%bc/</link>
+		
+		<dc:creator><![CDATA[aminhosseiny]]></dc:creator>
+		<pubDate>Thu, 23 Jun 2022 14:06:16 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[bias]]></category>
+		<category><![CDATA[human assessment]]></category>
+		<category><![CDATA[nlp]]></category>
+		<category><![CDATA[topic labeling]]></category>
+		<category><![CDATA[topic modeling]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
+
+
+
+<p>This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct &#8220;bias&#8221; factor. This point is likely relevant for a wide variety of machine labeling tasks.</p>
+
+
+
+<p><a href="https://github.com/aminmarani/aminmarani.github.io/raw/master/Bias_as_a_Distinct_Factor_in_Human_Rating_of_Machine_Learning.pdf" target="_blank" rel="noreferrer noopener">Want to read more?</a> </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
