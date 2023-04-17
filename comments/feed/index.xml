@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for Amin Hosseiny Marani, PhD Student	</title>
-	<atom:link href="http://localhost/amin/comments/feed/" rel="self" type="application/rss+xml" />
+	Comments for Amin Hosseiny Marani, PhD Candidate	</title>
+	<atom:link href="http://localhost/amin/comments/feed/?simply_static_page=1108" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 24 Jun 2022 13:20:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Apr 2023 13:09:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 </channel>
 </rss>

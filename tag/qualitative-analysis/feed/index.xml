@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>qualitative analysis &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/tag/qualitative-analysis/feed/" rel="self" type="application/rss+xml" />
+	<title>qualitative analysis &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/tag/qualitative-analysis/feed/?simply_static_page=1216" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Jun 2022 19:48:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Apr 2023 13:07:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>An Interdisciplinary Approach to Understanding Cultures of Ethics in STEM</title>
 		<link>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/</link>
@@ -35,7 +35,7 @@
 
 					<description><![CDATA[This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-<p><em>1-2 papers regarding this project will be submitted soon&#8230;</em></p>
+<p><em>Accepted for Publication at Bulletin of Science, Technology, &amp; Society (BSTS) </em></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/feed/</wfw:commentRss>

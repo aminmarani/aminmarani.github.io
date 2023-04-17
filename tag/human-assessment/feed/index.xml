@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>human assessment &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/tag/human-assessment/feed/" rel="self" type="application/rss+xml" />
+	<title>human assessment &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/tag/human-assessment/feed/?simply_static_page=1163" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 24 Jun 2022 13:20:46 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>More than Good and Bad: Human Assessments of Machine Labeling Quality Have Multiple Dimensions</title>
 		<link>/2022/06/23/more-than-good-and-bad-human-assessments-of-machine-labeling-quality-have-multiple-dimensions/</link>
@@ -37,7 +37,7 @@
 
 					<description><![CDATA[This project develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
 
 
 
@@ -72,7 +72,7 @@
 
 					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
 
 
 
@@ -106,7 +106,7 @@
 
 					<description><![CDATA[This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
 
 
 

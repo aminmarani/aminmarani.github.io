@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>re &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/tag/re/feed/" rel="self" type="application/rss+xml" />
+	<title>re &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/tag/re/feed/?simply_static_page=1207" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 23 Jun 2022 18:51:19 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Text2Table</title>
 		<link>/2022/06/23/text2table/</link>
@@ -34,7 +34,7 @@
 
 					<description><![CDATA[Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
+<figure class="wp-block-image"><img decoding="async" width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
 
 
 

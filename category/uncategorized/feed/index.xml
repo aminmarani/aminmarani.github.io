@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/category/uncategorized/feed/?simply_static_page=1211" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 23 Jun 2022 19:15:34 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Making Meaning out of Crisis: Mixed-Methods Investigation into the Nature and Impact of Framing Processes During the COVID-19 Pandemic</title>
 		<link>/2022/06/23/making-meaning-out-of-crisis-mixed-methods-investigation-into-the-nature-and-impact-of-framing-processes-during-the-covid-19-pandemic/</link>
@@ -33,7 +33,7 @@
 
 					<description><![CDATA[This Projects investigates the role of framing processes in how individuals and communities form understandings of major current events, focusing on the COVID-19 pandemic. This global health crisis is unique not only for its unprecedented magnitudeand severity, but also for the media environment in which occurs. Government organizations, news media, online groups, local communities, and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

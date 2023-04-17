@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>nlp &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/tag/nlp/feed/" rel="self" type="application/rss+xml" />
+	<title>nlp &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/tag/nlp/feed/?simply_static_page=1167" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 24 Jun 2022 13:20:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Apr 2023 13:09:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>An Interdisciplinary Approach to Understanding Cultures of Ethics in STEM</title>
 		<link>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/</link>
@@ -35,7 +35,7 @@
 
 					<description><![CDATA[This project, recorded during our six months of observations of Dr. Griffin’s lab, illustrates how scientific ethics are constituted in the everyday work of research and mentorship. Neither Jordan nor Dr. Griffin set out to have an explicit conversation about ethics. But in advising her mentee on how to professionalize the aesthetics of her data [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2022/06/image-3-1024x1024.png" alt="" class="wp-image-62" srcset="/wp-content/uploads/2022/06/image-3-1024x1024.png 1024w, /wp-content/uploads/2022/06/image-3-300x300.png 300w, /wp-content/uploads/2022/06/image-3-150x150.png 150w, /wp-content/uploads/2022/06/image-3-768x768.png 768w, /wp-content/uploads/2022/06/image-3-1536x1536.png 1536w, /wp-content/uploads/2022/06/image-3.png 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-<p><em>1-2 papers regarding this project will be submitted soon&#8230;</em></p>
+<p><em>Accepted for Publication at Bulletin of Science, Technology, &amp; Society (BSTS) </em></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2022/06/23/an-interdisciplinary-approach-to-understanding-cultures-of-ethics-in-stem/feed/</wfw:commentRss>
@@ -74,7 +74,7 @@
 
 					<description><![CDATA[People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-<p>This project will be submitted for publication soon&#8230;</p>
+<p>Submitted to ACM Transaction on Human-Computer Interaction (TOCHI)</p>
 ]]></content:encoded>
 					
 		
@@ -118,7 +118,7 @@
 
 					<description><![CDATA[This project develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
 
 
 
@@ -150,7 +150,7 @@
 
 					<description><![CDATA[Topic modeling includes a variety of machine learning techniques for identifying latent themes in a corpus of documents. Generating an exact solution (i.e., finding global optimum) is computationally intractable. Various optimization techniques (e.g., Variational Bayes, or Gibbs Sampling) are employed to generate topic solutions approximately by finding local optima. Such an approximation often begins with [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="404" src="/wp-content/uploads/2022/06/image-2-1024x404.png" alt="" class="wp-image-50" srcset="/wp-content/uploads/2022/06/image-2-1024x404.png 1024w, /wp-content/uploads/2022/06/image-2-300x118.png 300w, /wp-content/uploads/2022/06/image-2-768x303.png 768w, /wp-content/uploads/2022/06/image-2.png 1502w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="404" src="/wp-content/uploads/2022/06/image-2-1024x404.png" alt="" class="wp-image-50" srcset="/wp-content/uploads/2022/06/image-2-1024x404.png 1024w, /wp-content/uploads/2022/06/image-2-300x118.png 300w, /wp-content/uploads/2022/06/image-2-768x303.png 768w, /wp-content/uploads/2022/06/image-2.png 1502w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -166,7 +166,7 @@
 
 
 
-<p><em>This review paper will be submitted soon&#8230;</em></p>
+<p><em>Under revision for ACM Computing Surveys</em></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2022/06/23/topic-modeling-stability/feed/</wfw:commentRss>
@@ -188,7 +188,7 @@
 
 					<description><![CDATA[This Projects investigates the role of framing processes in how individuals and communities form understandings of major current events, focusing on the COVID-19 pandemic. This global health crisis is unique not only for its unprecedented magnitudeand severity, but also for the media environment in which occurs. Government organizations, news media, online groups, local communities, and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -217,7 +217,7 @@
 
 					<description><![CDATA[Named Entity Recognition (NER) and Relation Extraction (RE) are two common ways of summarizing clinical documents (e.g., discharge summaries). While deep learning methods have been received a lot of attention lately, it is not practical to run these methods on every single machine. Besides, the restriction of dataset makes the fine-tuning biased toward the trained [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img loading="lazy" width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
+<figure class="wp-block-image"><img decoding="async" width="884" height="480" src="/wp-content/uploads/2022/06/text2table-1.gif" alt="" class="wp-image-42"/></figure>
 
 
 
@@ -260,7 +260,7 @@
 
 					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
 
 
 
@@ -294,7 +294,7 @@
 
 					<description><![CDATA[This project argue that human assessments of machine labeling can reveal bias as a distinct measure separate from other perceptions of label quality. Human subjects were asked to assess the quality of automatically generated labels for a trained topic model. Quality assessments were gathered using 15 distinct self-report questions. Exploratory factor analysis identified a distinct [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2022/06/image.png" alt="" class="wp-image-20" width="254" height="293" srcset="/wp-content/uploads/2022/06/image.png 468w, /wp-content/uploads/2022/06/image-260x300.png 260w" sizes="(max-width: 254px) 100vw, 254px" /></figure>
 
 
 

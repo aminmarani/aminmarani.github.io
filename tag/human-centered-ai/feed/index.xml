@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>human-centered AI &#8211; Amin Hosseiny Marani, PhD Student</title>
-	<atom:link href="http://localhost/amin/tag/human-centered-ai/feed/" rel="self" type="application/rss+xml" />
+	<title>human-centered AI &#8211; Amin Hosseiny Marani, PhD Candidate</title>
+	<atom:link href="http://localhost/amin/tag/human-centered-ai/feed/?simply_static_page=1159" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Jun 2022 19:41:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Apr 2023 13:08:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Are You Taking a Break from Eating Disorder Recovery? What Breaks Can Tell us about Use of Social Media</title>
 		<link>/2022/06/23/are-you-taking-a-break-from-eating-disorder-recovery-what-breaks-can-tell-us-about-use-of-social-media/</link>
@@ -34,7 +34,7 @@
 
 					<description><![CDATA[People are using social media to articulate their life transitions; e.g., childbirth, pregnancy loss, substance misuse, gender transition, mental health, eating disorders (ED), etc. People rely on social networking sites (SNS) to connect with others, express their individuality, be entertained, or to be informed about the world. Social media platforms complementarily provide technology for individuals [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="1034" height="525" src="/wp-content/uploads/2022/06/long_qual-1.png" alt="" class="wp-image-58" srcset="/wp-content/uploads/2022/06/long_qual-1.png 1034w, /wp-content/uploads/2022/06/long_qual-1-300x152.png 300w, /wp-content/uploads/2022/06/long_qual-1-1024x520.png 1024w, /wp-content/uploads/2022/06/long_qual-1-768x390.png 768w" sizes="(max-width: 1034px) 100vw, 1034px" /></figure>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<p>This project will be submitted for publication soon&#8230;</p>
+<p>Submitted to ACM Transaction on Human-Computer Interaction (TOCHI)</p>
 ]]></content:encoded>
 					
 		
@@ -78,7 +78,7 @@
 
 					<description><![CDATA[This project develops a novel measure for human assessments of quality in machine labeling tasks. The paper tests this measure across two studies, one using an unsupervised task (generating labels for topic models) and one using a supervised task (labeling framing in political news coverage). For each label, study participants responded to several items asking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image"><img src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/2022/06/objectionable_tech_s2.svg" alt="" class="wp-image-54"/></figure>
 
 
 
@@ -110,7 +110,7 @@
 
 					<description><![CDATA[This Projects investigates the role of framing processes in how individuals and communities form understandings of major current events, focusing on the COVID-19 pandemic. This global health crisis is unique not only for its unprecedented magnitudeand severity, but also for the media environment in which occurs. Government organizations, news media, online groups, local communities, and [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="760" src="/wp-content/uploads/2022/06/image-1-1024x760.png" alt="" class="wp-image-46" srcset="/wp-content/uploads/2022/06/image-1-1024x760.png 1024w, /wp-content/uploads/2022/06/image-1-300x223.png 300w, /wp-content/uploads/2022/06/image-1-768x570.png 768w, /wp-content/uploads/2022/06/image-1.png 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -141,7 +141,7 @@
 
 					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
 
 
 
