@@ -9,7 +9,7 @@
 
 <channel>
 	<title>re &#8211; Amin Hosseiny Marani, PhD Candidate</title>
-	<atom:link href="http://localhost/amin/tag/re/feed/?simply_static_page=1207" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/amin/tag/re/feed/?simply_static_page=1390" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 23 Jun 2022 18:51:19 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Text2Table</title>
 		<link>/2022/06/23/text2table/</link>

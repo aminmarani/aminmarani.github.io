@@ -9,16 +9,16 @@
 
 <channel>
 	<title>human-centered AI &#8211; Amin Hosseiny Marani, PhD Candidate</title>
-	<atom:link href="http://localhost/amin/tag/human-centered-ai/feed/?simply_static_page=1159" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/amin/tag/human-centered-ai/feed/?simply_static_page=1346" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Apr 2023 13:08:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 02:02:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Are You Taking a Break from Eating Disorder Recovery? What Breaks Can Tell us about Use of Social Media</title>
 		<link>/2022/06/23/are-you-taking-a-break-from-eating-disorder-recovery-what-breaks-can-tell-us-about-use-of-social-media/</link>
@@ -141,7 +141,9 @@
 
 					<description><![CDATA[Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional.In contrast, this project provides evidence that human assessments about the quality [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"></div></div>
+<div class="wp-block-cover is-light" style="min-height:530px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-30" alt="" src="/wp-content/uploads/2022/06/suitable_tech_s1-1.svg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<p class="has-text-align-center has-large-font-size"></p>
+</div></div>
 
 
 
@@ -153,7 +155,7 @@
 
 
 
-<p><em>Paper has been submitted to CIKM 2022.</em></p>
+<p><em><a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557410">Read more about this in our CIKM 2022 paper.</a></em></p>
 ]]></content:encoded>
 					
 		
